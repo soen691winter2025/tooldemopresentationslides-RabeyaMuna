@@ -10,6 +10,8 @@ Resource:
 
 
 
+## Presentation Slide:
+[Presentation (3).pptx](https://github.com/user-attachments/files/19543787/Presentation.3.pptx)
 
 
 ## Tool Demo Video:
